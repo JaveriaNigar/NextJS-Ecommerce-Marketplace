@@ -2,8 +2,7 @@
 
 This is my **E‑commerce Marketplace Website** built as part of my web development learning journey.
 
-## 🌐 Live Demo  
-[View Live Site](your‑live‑link‑here)
+
 
 ## 🧰 Technologies Used  
 - HTML  
